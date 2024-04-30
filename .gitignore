@@ -24,4 +24,7 @@ mprofile_*.dat
 
 # Notebooks
 .ipynb_checkpoints/
-*.ipynb
+# *.ipynb
+
+# Models
+*.pt
